@@ -52,5 +52,5 @@ yarn test
 
 # Prints do projeto
 
-![Like repository request](https://github.com/EduardoAlcebiades/desafio-corrigindo-codigo/blob/main/assets/images/like-repositories.jpg?raw=true)
+![Like repository request](https://github.com/EduardoAlcebiades/desafio-corrigindo-codigo/blob/main/assets/images/like-repository.jpg?raw=true)
 ![Tests running](https://github.com/EduardoAlcebiades/desafio-corrigindo-codigo/blob/main/assets/images/tests.jpg?raw=true)
